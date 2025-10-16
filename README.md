@@ -5,7 +5,7 @@ A modern, responsive implementation of the classic 2048 puzzle game built with R
 
 ## 🚀 Live Demo
 
-[Play the Game Here](https://your-deployed-app-link.vercel.app)
+[Play the Game Here](https://2048-game-sigma-nine.vercel.app/)
 
 ## 📋 Features
 
